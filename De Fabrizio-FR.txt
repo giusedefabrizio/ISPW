@@ -1,0 +1,4 @@
+ - The system shall display a picture of the menu for every restaurant
+ - The system shall send a notification to the restaurant’s owner when a 
+   customer signs up
+ - The system shall list all reviews of the restaurant posted by customers
