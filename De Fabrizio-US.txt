@@ -1,6 +1,6 @@
 - As a customer, I want to type a dish’s name, so that I can see what 
 restaurants make that dish.
-- As a restaurant's oner, I want to add a menu’s image, so that I can show to 
+- As a restaurant's owner, I want to add a menu’s image, so that I can show to 
 new customers the dishes of my restaurant.
 - As a customer, I want to list all restaurants by category, so 
 that I know what restaurants organize special events.
